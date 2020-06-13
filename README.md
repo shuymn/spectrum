@@ -1,1 +1,1 @@
-# Nijisanji DB Collector
+# [Unofficial] Nijisanji DB Collector
