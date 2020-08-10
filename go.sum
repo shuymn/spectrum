@@ -11,6 +11,8 @@ github.com/aws/aws-sdk-go v1.30.24 h1:y3JPD51VuEmVqN3BEDVm4amGpDma2cKJcDPuAU1OR5
 github.com/aws/aws-sdk-go v1.30.24/go.mod h1:5zCpMtNQVjRREroY7sYe8lOMRSxkhG6MZveU8YkpAk0=
 github.com/aws/aws-sdk-go v1.32.1 h1:0dy5DkMKNPH9mLWveAWA9ZTiKIEEvJJA6fbe0eCs19k=
 github.com/aws/aws-sdk-go v1.32.1/go.mod h1:5zCpMtNQVjRREroY7sYe8lOMRSxkhG6MZveU8YkpAk0=
+github.com/aws/aws-sdk-go v1.34.0 h1:brux2dRrlwCF5JhTL7MUT3WUwo9zfDHZZp3+g3Mvlmo=
+github.com/aws/aws-sdk-go v1.34.0/go.mod h1:5zCpMtNQVjRREroY7sYe8lOMRSxkhG6MZveU8YkpAk0=
 github.com/cenkalti/backoff v2.1.1+incompatible h1:tKJnvO2kl0zmb/jA5UKAt4VoEVw1qxKWjE/Bpp46npY=
 github.com/cenkalti/backoff v2.1.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/cenkalti/backoff v2.2.1+incompatible h1:tNowT99t7UNflLxfYYSlKYsBpXdEet03Pg2g16Swow4=
@@ -36,6 +38,8 @@ github.com/gofrs/uuid v3.3.0+incompatible h1:8K4tyRfvU1CYPgJsveYFQMhpFd/wXNM7iK6
 github.com/gofrs/uuid v3.3.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
 github.com/guregu/dynamo v1.8.0 h1:hZhM+O4Wi0EIIptgLqUHf6Nxfx4wogdBvzyjl7pUBFY=
 github.com/guregu/dynamo v1.8.0/go.mod h1:cpuroSssTw4MSkimgyK5iWSl0Mr/NIZKRxBOc95ofnk=
+github.com/guregu/dynamo v1.9.0 h1:euKN1VjYwO06vex6FXsQrBwphzbQc39x09uXIVYq2FI=
+github.com/guregu/dynamo v1.9.0/go.mod h1:nN6eZeNSiD92T5IVTmEhO6pRZblJZ8cQ+0e0dVFExjc=
 github.com/jmespath/go-jmespath v0.3.0 h1:OS12ieG61fsCg5+qLJ+SsW9NicxNkg3b25OyT2yCeUc=
 github.com/jmespath/go-jmespath v0.3.0/go.mod h1:9QtRXoHjLGCJ5IBSaohpXITPlowMeeYCZ7fLUTSywik=
 github.com/leodido/go-urn v1.2.0 h1:hpXL4XnriNwQ/ABnpepYM/1vCLWNDfUNts8dX3xTG6Y=
