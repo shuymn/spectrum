@@ -11,7 +11,7 @@ require (
 	github.com/go-playground/validator/v10 v10.3.0
 	github.com/gofrs/uuid v3.3.0+incompatible // indirect
 	github.com/guregu/dynamo v1.9.1
-	github.com/rs/zerolog v1.19.0
+	github.com/rs/zerolog v1.20.0
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9 // indirect
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
 )
