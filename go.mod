@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-lambda-go v1.19.1
 	github.com/aws/aws-sdk-go v1.34.20
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
-	github.com/go-playground/validator/v10 v10.3.0
+	github.com/go-playground/validator/v10 v10.4.1
 	github.com/gofrs/uuid v3.3.0+incompatible // indirect
 	github.com/guregu/dynamo v1.9.1
 	github.com/rs/zerolog v1.20.0
