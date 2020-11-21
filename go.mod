@@ -13,5 +13,5 @@ require (
 	github.com/guregu/dynamo v1.9.1
 	github.com/rs/zerolog v1.20.0
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9 // indirect
-	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 )
