@@ -9,7 +9,7 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/go-playground/validator/v10 v10.9.0
 	github.com/gofrs/uuid v3.3.0+incompatible // indirect
-	github.com/guregu/dynamo v1.10.4
+	github.com/guregu/dynamo v1.11.0
 	github.com/rs/zerolog v1.23.0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 )
