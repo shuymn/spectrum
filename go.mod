@@ -3,7 +3,7 @@ module github.com/shuymn/nijisanji-db-collector
 go 1.14
 
 require (
-	github.com/PuerkitoBio/goquery v1.7.1
+	github.com/PuerkitoBio/goquery v1.8.0
 	github.com/aws/aws-lambda-go v1.26.0
 	github.com/aws/aws-sdk-go v1.41.16
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
