@@ -1,1 +1,1 @@
-# [Unofficial] Nijisanji DB Collector
+# Spectrum - Nijisanji Unoffical Database
